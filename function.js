@@ -1,2 +1,7 @@
-document.getElementById("javascritpishard").innerHTML =
-    'My Name is esperanza Margret Tembo  <br><br> Iam from Zambia <br><br> My height is 1.5m  ';
+// document.getElementById("javascritpishard").innerHTML =
+//     'My Name is esperanza Margret Tembo  <br><br> Iam from Zambia <br><br> My height is 1.5m  ';
+var myName = "My Name is esperanza Margret Tembo";
+var myCountry = "Iam from Zambia";
+var myHeight = "My height is 1.5m";
+
+alert(myName + "\n" + myCountry + "\n" + myHeight);
